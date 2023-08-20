@@ -49,7 +49,7 @@
 |디테일페이지 <img width="1552" alt="댓글입력, 북마크" src="https://github.com/SKHUMEET/.github/assets/53474999/ca3bf1d2-52a7-4411-8af7-9d1405d3591a">|정보수정 <img width="1552" alt="정보수정" src="https://github.com/SKHUMEET/.github/assets/53474999/f773fc57-18ed-4cb3-a928-2d6164770eb7">|![skhumeet](https://github.com/SKHUMEET/.github/assets/53474999/ee359120-caf2-4ded-9395-8853f8664139)|
 
 ## 👥 Team SKHUMEET
-|[박지영](https://github.com/JIYEONGSTAR)|[이한길](https://github.com/hangillee)|[이지윤](https://github.com/dd-jiyun)|[이은지](https://github.com/Lee2Eunji)|
+|[박지영](https://github.com/jyeongpark)|[이한길](https://github.com/hangillee)|[이지윤](https://github.com/dd-jiyun)|[이은지](https://github.com/Lee2Eunji)|
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/JIYEONGSTAR.png">|<img src="https://github.com/hangillee.png">|<img src="https://github.com/dd-jiyun.png">|<img src="https://github.com/Lee2Eunji.png">|
 |Frontend|Backend|Backend|Frontend|
