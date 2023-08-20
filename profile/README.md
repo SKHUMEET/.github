@@ -51,5 +51,5 @@
 ## 👥 Team SKHUMEET
 |[박지영](https://github.com/jyeongpark)|[이한길](https://github.com/hangillee)|[이지윤](https://github.com/dd-jiyun)|[이은지](https://github.com/Lee2Eunji)|
 |:---:|:---:|:---:|:---:|
-|<img src="https://github.com/JIYEONGSTAR.png">|<img src="https://github.com/hangillee.png">|<img src="https://github.com/dd-jiyun.png">|<img src="https://github.com/Lee2Eunji.png">|
+|<img src="https://github.com/jyeongpark.png">|<img src="https://github.com/hangillee.png">|<img src="https://github.com/dd-jiyun.png">|<img src="https://github.com/Lee2Eunji.png">|
 |Frontend|Backend|Backend|Frontend|
